@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-A simple tic-tac-toe game madeusing python
+A simple tic-tac-toe game made using python
